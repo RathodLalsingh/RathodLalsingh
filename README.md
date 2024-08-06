@@ -1,8 +1,9 @@
 ![logo](https://github.com/RathodLalsingh/Lalsingh/blob/main/photoGt.png)
+
 <h1 align="center">Hi 👋, I'm Nenavath Lalsingh</h1>
-<h4 align="center">A Passionate looking for Software developer from india</h4>
-<h4 align="center">Iam recently graduate from IIIT Bhopal from Computer Science</h4>
-<h4align="center">Passionate about coding and Web developments</h4>
+<h3 align="center">A Passionate looking for Software developer from india</h3>
+<h3 align="center">Iam recently graduate from IIIT Bhopal from Computer Science</h3>
+<h3 align="center">Passionate about coding and Web developments</h3>
 
 <img align ="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -15,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nenavath lalsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nenavath lalsingh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nenavath lalsingh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nenavath-lalsingh-381007234/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/nenavathlalsing/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/nenavathlalsing/" height="30" width="40" /></a>
 </p>
 
