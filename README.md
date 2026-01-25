@@ -2,8 +2,8 @@
 <h1 align="center"> 💫 Hi 👋, I'm Nenavath Lalsingh</h1>
 <h4 align="center">A Passionate Seeking Opportunity for Software developer from india</h4>
 <h4 align="center">Iam recently graduate from IIIT Bhopal in Computer Science and Engineering</h4>
-<h4 align="center">Python and Data Structure ,Backend Developer,enthusiastic</h4>
-<h4 align="center">Passionate about coding and Mern stack developer  </h4>
+<h4 align="center">Full Stack Developer and Data Structure ,Backend Developer,enthusiastic</h4>
+<h4 align="center">Passionate about coding and Problem Solving  </h4>
 
 <img align ="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
