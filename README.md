@@ -1,4 +1,4 @@
-![logo](https://github.com/RathodLalsingh/Lalsingh/blob/main/photoGt.png)
+
 <h1 align="center"> 💫 Hi 👋, I'm Nenavath Lalsingh</h1>
 <h4 align="center">Passionate and highly motivated Computer Science graduate from the Indian Institute of Information Technology (IIIT) Bhopal.</h4>
 <h4 align="center">Seeking an opportunity as a Java Backend Developer / Full Stack Developer.</h4>
