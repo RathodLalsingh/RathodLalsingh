@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nenavath Lalsingh</h1>
+<h1 align="center">Hi 👋, I'm Rathod Lalsingh</h1>
 <h3 align="center">Java Backend Developer | Full Stack Developer | B.Tech CSE @ IIIT Bhopal</h3>
 
 <p align="center">
