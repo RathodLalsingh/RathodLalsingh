@@ -1,30 +1,158 @@
+<h1 align="center">Hi 👋, I'm Nenavath Lalsingh</h1>
+<h3 align="center">Java Backend Developer | Full Stack Developer | B.Tech CSE @ IIIT Bhopal</h3>
 
-<h1 align="center"> 💫 Hi 👋, I'm Nenavath Lalsingh</h1>
-<h4 align="center">Passionate and highly motivated Computer Science graduate from the Indian Institute of Information Technology (IIIT) Bhopal.</h4>
-<h4 align="center">Seeking an opportunity as a Java Backend Developer / Full Stack Developer.</h4>
-<h4 align="center">Skilled in Java, Spring Boot, REST APIs, Full Stack Development, and Data Structures & Algorithms.</h4>
-<h4 align="center">Enthusiastic about coding, problem-solving, and building scalable and efficient software applications.  </h4>
-
-<img align ="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rathodlalsingh&label=Profile%20views&color=0e75b6&style=flat" alt="rathodlalsingh" /> </p>
-
-- Reach me on: **nenavathlalsing@gmail.com**
-  
-- <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/nenavath-lalsingh-381007234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nenavath lalsingh" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/nenavathlalsing/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/nenavathlalsing/" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:nenavathlalsing@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/lalsinghnenavath/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/RathodLalsingh"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+  <a href="https://benevolent-cendol-02f869.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" /></a>
 </p>
 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JDBC](https://img.shields.io/badge/jdbc-%23039BE5.svg?style=for-the-badge&logo=jdbc) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Hibernate](https://img.shields.io/badge/hiernate-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Spring Boot](https://img.shields.io/badge/springboot-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![JUnit](https://img.shields.io/badge/JUit-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Vs Code](https://img.shields.io/badge/vscode-a08021?style=for-the-badge&logo=vscode&logoColor=ffcd34) ![IntelliJe](https://img.shields.io/badge/Intellije-%23F7931E.svg?style=for-the-badge&logo=Intellije&logoColor=white) ![Postman](https://img.shields.io/badge/postman-%23ffffff.svg?style=for-the-badge&logo=postman&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Hook](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Data Strcuture](https://img.shields.io/badge/datastructure-%23E0234E.svg?style=for-the-badge&logo=datastructure&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Spring security](https://img.shields.io/badge/springsecurity-%23007ACC.svg?style=for-the-badge&logo=springsecurity&logoColor=white) ![Antigravity](https://img.shields.io/badge/antigravity-%230A0FFF.svg?style=for-the-badge&logo=antigravirt&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RathodLalsingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RathodLalsingh&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RathodLalsingh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+### 🧑‍💻 About Me
 
+- 🎓 B.Tech in Computer Science and Engineering, **IIIT Bhopal** (CGPA: 7.86/10)
+- 💼 Software Developer Intern @ **Techplement** — built backend services for a News Aggregator using Java, Spring Boot, Redis & JWT
+- 🚀 Currently building production-grade backend systems: proxy servers, finance platforms, and URL shorteners
+- 📚 Solved **500+ DSA problems** on LeetCode & GeeksforGeeks; ranked 23rd/500 in a national coding competition
+- 🌱 Focused on scalable REST API design, Spring Security, and database performance optimization
+- 📫 Reach me at **nenavathlalsing@gmail.com**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+</p>
+
+**Backend**
+<p>
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+</p>
+
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" />
+</p>
+
+**Databases**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+</p>
+
+**Tools & Testing**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mockito-1B1B1B?style=flat" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellijidea&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+**[ProxyShield Enterprise](https://github.com/RathodLalsingh/ProxyShield-Enterprise)** — Enterprise HTTP Proxy Server
+Architected using Java, Spring Boot & Spring Security with JWT-protected REST APIs, domain filtering, response caching, and JVM monitoring.
+`Java` `Spring Boot` `Spring Security` `PostgreSQL` `Hibernate` `Swagger`
+
+**[FinLedger Enterprise](https://github.com/RathodLalsingh/FinLedger-Enterprise)** — Personal Finance Platform · [Live Demo](https://finledger-enterprise.onrender.com/swagger-ui/index.html)
+Production-grade backend with secure REST APIs for authentication, expense tracking, and Excel report generation, backed by JWT auth and Redis caching.
+`Java` `Spring Boot` `Redis` `PostgreSQL` `Cloudinary`
+
+**[LinkPilot](https://github.com/RathodLalsingh/LinkPilot)** — Secure URL Shortener · [Live Demo](https://linkpilotnetlifyapp.netlify.app/)
+Full-stack URL shortening platform with real-time click analytics, stateless JWT-based access control, and a responsive React.js dashboard.
+`Java` `Spring Boot` `React.js` `PostgreSQL`
+
+---
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RathodLalsingh&theme=default&hide_border=false" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RathodLalsingh&theme=github-compact" width="100%" />
+</p>
+
+---
+
+### 🧩 DSA / Problem Solving
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Solved-400-brightgreen?style=for-the-badge&logo=leetcode&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Easy-140-5CB85C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Medium-190-F0AD4E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hard-70-D9534F?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/National_Ranking-23rd%2F500-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/RathodLalsingh"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
+  <a href="https://www.geeksforgeeks.org/user/RathodLalsingh"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white" /></a>
+</p>
+
+---
+
+### 📌 Current Focus
+
+- 🚀 Building enterprise-grade Java Spring Boot applications
+- 🔒 Designing secure REST APIs with Spring Security & JWT
+- ⚡ Optimizing backend performance using Redis caching
+- 🐳 Learning Docker, AWS, and Microservices
+- 📚 Practicing System Design and solving DSA problems daily
+
+---
+
+### 🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:nenavathlalsing@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lalsinghnenavath/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/RathodLalsingh">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile! <br>
+I'm always open to collaborating on exciting Java Backend and Full Stack projects.
+</p>
